@@ -1,3 +1,3 @@
 # Mynewgitrepo
 this is my git repo
-Author-Sai Lakshmi
+Author-Sai Lakshmi Ragala
